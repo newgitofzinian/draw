@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T08:16:59.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" version="20.2.5" etag="vOzS9oWujOSpJcv2Fel1" type="github"><diagram id="Ft0gS_RgocanWYSX_-Yj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-22T08:41:51.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="a-20JjWAW2bDk8tTbPVc" version="20.2.5" type="github" pages="2">
+  <diagram id="Ft0gS_RgocanWYSX_-Yj" name="第 1 页">
+    <mxGraphModel dx="2191" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-14" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;imageAspect=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-10" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-16" value="Client hello 协商加密信息" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfIAT2ukCstPyz8FE6pT-14" target="XfIAT2ukCstPyz8FE6pT-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="10" as="sourcePoint" />
+            <mxPoint x="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-15" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-10" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfIAT2ukCstPyz8FE6pT-15" target="XfIAT2ukCstPyz8FE6pT-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="90" as="sourcePoint" />
+            <mxPoint x="190" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-25" value="server hello" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XfIAT2ukCstPyz8FE6pT-17">
+          <mxGeometry x="0.0133" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-18" value="server &amp;nbsp;公钥证书请求client公钥" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfIAT2ukCstPyz8FE6pT-15" target="XfIAT2ukCstPyz8FE6pT-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="50" as="sourcePoint" />
+            <mxPoint x="120" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfIAT2ukCstPyz8FE6pT-15" target="XfIAT2ukCstPyz8FE6pT-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="90" as="sourcePoint" />
+            <mxPoint x="170" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfIAT2ukCstPyz8FE6pT-14" target="XfIAT2ukCstPyz8FE6pT-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="150" as="sourcePoint" />
+            <mxPoint x="320" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-21" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="110" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XfIAT2ukCstPyz8FE6pT-22" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="90" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wJk0ypLflVGmFp3NoVV6" name="第 2 页">
+    <mxGraphModel dx="31150" dy="8721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wKMauf6XAUWWl915PFS1-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30170" y="-6170" as="sourcePoint" />
+            <mxPoint x="-30160" y="-7650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKMauf6XAUWWl915PFS1-1" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/WebHosting.svg;" vertex="1" parent="1">
+          <mxGeometry x="-29920" y="-7825" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wKMauf6XAUWWl915PFS1-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
+          <mxGeometry x="-30210" y="-7820" width="108.45" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wKMauf6XAUWWl915PFS1-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-29320" y="-6140" as="sourcePoint" />
+            <mxPoint x="-29340" y="-7650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKMauf6XAUWWl915PFS1-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30130" y="-7540" as="sourcePoint" />
+            <mxPoint x="-29350" y="-7530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKMauf6XAUWWl915PFS1-7" value="客户端支持的最高版本、加密套件列表、压缩算法列表、客户端随机数、" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30255" y="-7675" width="410" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
