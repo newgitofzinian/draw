@@ -1,16 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T02:52:51.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="yvYtTAyrhVbOm-VZUcS6" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-15T08:41:58.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="dxwt9-7K1UxZh5twocgV" version="20.3.0" type="github" pages="3">
   <diagram id="Jw9HLEhtM-H6NixcfuZA" name="总览">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Q4PbEb4LlJR933DUh8T-6" value="公司学习计划" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="130" height="80" as="geometry" />
+          <mxGeometry x="100" y="80" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-Q4PbEb4LlJR933DUh8T-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Q4PbEb4LlJR933DUh8T-6">
           <mxGeometry y="30" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-Q4PbEb4LlJR933DUh8T-8" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;NASE相关&lt;/span&gt;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-Q4PbEb4LlJR933DUh8T-7">
+          <mxGeometry width="130" height="50" as="geometry">
+            <mxRectangle width="130" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl5yGFILm9noBI1Rg3r3-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Q4PbEb4LlJR933DUh8T-6">
+          <mxGeometry y="80" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pl5yGFILm9noBI1Rg3r3-2" value="票交所" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pl5yGFILm9noBI1Rg3r3-1">
+          <mxGeometry width="130" height="50" as="geometry">
+            <mxRectangle width="130" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pl5yGFILm9noBI1Rg3r3-3" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Q4PbEb4LlJR933DUh8T-6">
+          <mxGeometry y="130" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pl5yGFILm9noBI1Rg3r3-4" value="上清所" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="pl5yGFILm9noBI1Rg3r3-3">
           <mxGeometry width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -66,28 +82,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3Q0mUgDl-Ia8Ntp3xX22-26" value="NASE学习计划" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="210" y="30" width="360" height="140" as="geometry" />
+          <mxGeometry x="210" y="30" width="360" height="210" as="geometry" />
         </mxCell>
         <mxCell id="3Q0mUgDl-Ia8Ntp3xX22-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3Q0mUgDl-Ia8Ntp3xX22-26">
-          <mxGeometry y="30" width="360" height="35" as="geometry" />
+          <mxGeometry y="30" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3Q0mUgDl-Ia8Ntp3xX22-33" value="知识点列表" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3Q0mUgDl-Ia8Ntp3xX22-27">
-          <mxGeometry width="120" height="35" as="geometry">
-            <mxRectangle width="120" height="35" as="alternateBounds" />
+          <mxGeometry width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3Q0mUgDl-Ia8Ntp3xX22-28" value="完成情况" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3Q0mUgDl-Ia8Ntp3xX22-27">
-          <mxGeometry x="120" width="120" height="35" as="geometry">
-            <mxRectangle width="120" height="35" as="alternateBounds" />
+          <mxGeometry x="120" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3Q0mUgDl-Ia8Ntp3xX22-29" value="备注" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3Q0mUgDl-Ia8Ntp3xX22-27">
-          <mxGeometry x="240" width="120" height="35" as="geometry">
-            <mxRectangle width="120" height="35" as="alternateBounds" />
+          <mxGeometry x="240" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3Q0mUgDl-Ia8Ntp3xX22-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3Q0mUgDl-Ia8Ntp3xX22-26">
-          <mxGeometry y="65" width="360" height="75" as="geometry" />
+          <mxGeometry y="60" width="360" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3Q0mUgDl-Ia8Ntp3xX22-34" value="白皮书" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3Q0mUgDl-Ia8Ntp3xX22-30">
           <mxGeometry width="120" height="75" as="geometry">
@@ -103,6 +119,116 @@
           <mxGeometry x="240" width="120" height="75" as="geometry">
             <mxRectangle width="120" height="75" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q2Q2dkVJCsQNJZSemYCj-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3Q0mUgDl-Ia8Ntp3xX22-26">
+          <mxGeometry y="135" width="360" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="q2Q2dkVJCsQNJZSemYCj-2" value="用户手册" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="q2Q2dkVJCsQNJZSemYCj-1">
+          <mxGeometry width="120" height="75" as="geometry">
+            <mxRectangle width="120" height="75" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2Q2dkVJCsQNJZSemYCj-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="q2Q2dkVJCsQNJZSemYCj-1">
+          <mxGeometry x="120" width="120" height="75" as="geometry">
+            <mxRectangle width="120" height="75" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2Q2dkVJCsQNJZSemYCj-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="q2Q2dkVJCsQNJZSemYCj-1">
+          <mxGeometry x="240" width="120" height="75" as="geometry">
+            <mxRectangle width="120" height="75" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ScoL-kxuymOt9wukGSlU" name="票交所">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-1" value="配置说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="45" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="89" y="140" width="650" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-2">
+          <mxGeometry width="650" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-4" value="硬件型号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-3">
+          <mxGeometry width="150" height="76" as="geometry">
+            <mxRectangle width="150" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-5" value="软件版本" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-3">
+          <mxGeometry x="150" width="340" height="76" as="geometry">
+            <mxRectangle width="340" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-12" value="配置方法" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-3">
+          <mxGeometry x="490" width="160" height="76" as="geometry">
+            <mxRectangle width="160" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-2">
+          <mxGeometry y="76" width="650" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-7" value="NetSign-J" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-6">
+          <mxGeometry width="150" height="74" as="geometry">
+            <mxRectangle width="150" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-8" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;SHCPE3.1_NetSignServer5.6.50.2_patch1.0-full&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-6">
+          <mxGeometry x="150" width="340" height="74" as="geometry">
+            <mxRectangle width="340" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-13" value="通过&lt;font color=&quot;#ff0000&quot;&gt;产生证书请求&lt;/font&gt;方式，产生非对称密钥" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-6">
+          <mxGeometry x="490" width="160" height="74" as="geometry">
+            <mxRectangle width="160" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-2">
+          <mxGeometry y="150" width="650" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-16" value="NetSign-J" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-15">
+          <mxGeometry width="150" height="74" as="geometry">
+            <mxRectangle width="150" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-17" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;CCBC_SHCPE1.1_NetSignServer5.5.40.16_patch2.0-full&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-15">
+          <mxGeometry x="150" width="340" height="74" as="geometry">
+            <mxRectangle width="340" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-18" value="&lt;p style=&quot;text-indent:21.0pt;line-height:150%&quot; class=&quot;MsoNormal&quot;&gt;通过&lt;font color=&quot;#ff3333&quot;&gt;密钥对配置&lt;/font&gt;方式产生非对称密钥对，接口传密钥标签导出公钥。&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:&amp;quot;Arial&amp;quot;,sans-serif&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-15">
+          <mxGeometry x="490" width="160" height="74" as="geometry">
+            <mxRectangle width="160" height="74" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-2">
+          <mxGeometry y="224" width="650" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-10" value="NetSign-XE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-9">
+          <mxGeometry width="150" height="76" as="geometry">
+            <mxRectangle width="150" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-11" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;XE&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;宋体;mso-ascii-font-family:Arial;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;Arial;mso-bidi-font-family:Arial;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;型号为签名验签和票价所报文加解密二合一功能型号&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-9">
+          <mxGeometry x="150" width="340" height="76" as="geometry">
+            <mxRectangle width="340" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-14" value="1. 申请国米双证&lt;br&gt;2. 金融机构列表导入票交公钥证书&lt;br&gt;3. 多台签名服务配置同步（资源同步配置）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="lXv5MtnELed1IkGwdSNJ-9">
+          <mxGeometry x="490" width="160" height="76" as="geometry">
+            <mxRectangle width="160" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-20" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px;&quot;&gt;&lt;b&gt;NetSign-J&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;&lt;br/&gt;mso-bidi-font-family:Arial;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-weight:bold&quot;&gt;仅支持票交报文加解密功能&lt;/span&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="70" y="465" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="lXv5MtnELed1IkGwdSNJ-21" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 16px;&quot;&gt;&lt;b&gt;NetSign-XE&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:Arial;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&lt;br/&gt;Arial;mso-bidi-font-family:Arial;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;比&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&lt;br/&gt;宋体;mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;NetSign-J&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;mso-ascii-font-family:Arial;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;多一块签名验签服务配置&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="280" y="465" width="190" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
